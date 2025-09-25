@@ -1,11 +1,11 @@
-👋 Hi, I’m Durga Sai Kumar Thulluru, a Cloud & DevOps Engineer with 8+ years of hands-on experience specializing in AWS cloud architecture, automation, and CI/CD pipelines.
+👋 Hi, I’m Durga Sai Kumar Thulluru, a Senior SRE & DevSecOps Engineer with 8+ years of experience driving reliability, automation, and observability across AWS, Azure, and OpenShift/Kubernetes environments.
 
-🔍 I am passionate about designing highly available, secure, and resilient AWS solutions, with strong focus on multi-tier VPC design, Infrastructure as Code (Terraform/CloudFormation), and serverless architectures using Lambda, API Gateway, DynamoDB, and EventBridge.
+🔧 I specialize in Kubernetes & OpenShift (4.18), containerization (Docker), and Infrastructure as Code (Terraform, Ansible, CloudFormation) to deliver scalable and secure cloud solutions.
 
-🎯 My expertise spans scalable application deployments on AWS, database management with RDS, DynamoDB, and MongoDB, disaster recovery with S3 + Glacier, and cost-optimized auto-scaling architectures using ALB, Route 53, and Elastic Load Balancing.
+☁️ My work includes building multi-tier VPC architectures, automating CI/CD pipelines with Jenkins, GitHub Actions, and Argo CD, and integrating DevSecOps controls with SonarQube, Black Duck, and Coverity to ensure compliance.
 
-🚀 I actively contribute to cloud optimization, DevSecOps integration, and automation of complex workflows using Python, Terraform, and Jenkins/GitHub Actions, ensuring faster, reliable, and compliant deployments.
+📊 Strong background in observability — building end-to-end monitoring stacks with Splunk, ELK, Grafana, Prometheus, and OpenTelemetry, cutting MTTR through proactive incident detection and RCA.
 
-🤝 Open to collaborating on AWS cloud engineering, automation, and modernization projects that push innovation and deliver real business value.
+🐍 Proficient in Python, Bash, and Shell scripting to automate deployments, monitoring, and infrastructure tasks, improving efficiency and reducing manual effort.
 
-📫 Feel free to reach out at durgasaithulluru1@gmail.com — always excited to connect, share knowledge, and explore opportunities.
+🚀 Passionate about cloud modernization, SRE practices, and automation at scale, I focus on delivering resilient, compliant, and cost-optimized solutions for industries like banking, trading, and insurance.
