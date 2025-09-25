@@ -1,4 +1,4 @@
-👋 Hi, I’m Durga Sai Kumar Thulluru, a Cloud & DevOps Engineer with 5+ years of hands-on experience specializing in AWS cloud architecture, automation, and CI/CD pipelines.
+👋 Hi, I’m Durga Sai Kumar Thulluru, a Cloud & DevOps Engineer with 8+ years of hands-on experience specializing in AWS cloud architecture, automation, and CI/CD pipelines.
 
 🔍 I am passionate about designing highly available, secure, and resilient AWS solutions, with strong focus on multi-tier VPC design, Infrastructure as Code (Terraform/CloudFormation), and serverless architectures using Lambda, API Gateway, DynamoDB, and EventBridge.
 
@@ -8,4 +8,4 @@
 
 🤝 Open to collaborating on AWS cloud engineering, automation, and modernization projects that push innovation and deliver real business value.
 
-📫 Feel free to reach out at durgasaithulluru@gmail.com — always excited to connect, share knowledge, and explore opportunities.
+📫 Feel free to reach out at durgasaithulluru1@gmail.com — always excited to connect, share knowledge, and explore opportunities.
