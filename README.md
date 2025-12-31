@@ -1,4 +1,4 @@
-👋 Hi, I’m Durga Sai Kumar Thulluru, a Senior SRE & DevSecOps Engineer with 8+ years of experience driving reliability, automation, and observability across AWS, Azure, and OpenShift/Kubernetes environments.
+👋 Hi, I’m Durga Sai Kumar Thulluru, Senior DevOps & Observability Engineer with 6 years of experience driving reliability, automation, and observability across AWS, Azure, and OpenShift/Kubernetes environments.
 
 🔧 I specialize in Kubernetes & OpenShift (4.18), containerization (Docker), and Infrastructure as Code (Terraform, Ansible, CloudFormation) to deliver scalable and secure cloud solutions.
 
