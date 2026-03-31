@@ -4,7 +4,7 @@
 
 I build scalable, reliable, and automated cloud infrastructure with a strong focus on **AWS, Terraform, Kubernetes, CI/CD, and observability**.
 
-I enjoy solving real production problems — improving deployment reliability, reducing MTTR, automating infrastructure, and building systems that are resilient and cost-efficient.
+I enjoy solving real production problems thats improves deployment reliability, reducing MTTR, automating infrastructure, and building systems that are resilient and cost-efficient.
 
 ---
 
