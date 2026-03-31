@@ -32,7 +32,7 @@ Python · Bash · Linux · Git · AWS CLI
 
 ##  Featured Projects
 
-###  [Serverless-Web-Application-on-AWS](https://github.com/Durgathulluru/aws-ntier-ha-dr)
+###  [Serverless-Web-Application-on-AWS](https://github.com/Saithulluru/aws-ntier-ha-dr)
 Serverless web application architecture using AWS services.
 
 **Tech:** AWS Lambda · API Gateway · Serverless
