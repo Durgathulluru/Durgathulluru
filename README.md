@@ -1,4 +1,4 @@
-# Hi, I'm Durga Sai Kumar Thulluru
+# Hi, I'm Sai Kumar Thulluru
 
 **AWS Cloud Engineer · DevOps · SRE / Platform Engineering Focus · Open to U.S. roles**
 
