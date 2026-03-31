@@ -32,6 +32,13 @@ Python · Bash · Linux · Git · AWS CLI
 
 ##  Featured Projects
 
+###  [Serverless-Web-Application-on-AWS](https://github.com/Durgathulluru/aws-ntier-ha-dr)
+Serverless web application architecture using AWS services.
+
+**Tech:** AWS Lambda · API Gateway · Serverless
+
+---
+
 ###  [ecs-notes-app](https://github.com/Durgathulluru/ecs-notes-app)
 Stateful and stateless application flow using AWS ECS with CI/CD integration (GitHub Actions → ECR → ECS).
 
@@ -39,10 +46,10 @@ Stateful and stateless application flow using AWS ECS with CI/CD integration (Gi
 
 ---
 
-###  [insurance_project](https://github.com/Durgathulluru/insurance_project)
-Microservices-based CI/CD pipeline implementation using Jenkins and containerized applications.
+###  [stateful-app](https://github.com/Durgathulluru/stateful-app)
+Stateful application deployment on AWS using ALB, Auto Scaling, and Cognito-based authentication.
 
-**Tech:** Jenkins · Docker · CI/CD · Microservices
+**Tech:** AWS · ALB · ASG · Cognito · Python
 
 ---
 
@@ -60,17 +67,10 @@ Hands-on Kubernetes concepts, deployments, and orchestration learning repository
 
 ---
 
-###  [stateful-app](https://github.com/Durgathulluru/stateful-app)
-Stateful application deployment on AWS using ALB, Auto Scaling, and Cognito-based authentication.
+###  [insurance_project](https://github.com/Durgathulluru/insurance_project)
+Microservices-based CI/CD pipeline implementation using Jenkins and containerized applications.
 
-**Tech:** AWS · ALB · ASG · Cognito · Python
-
----
-
-###  [Serverless-Web-Application-on-AWS](https://github.com/Durgathulluru/Serverless-Web-Application-on-AWS)
-Serverless web application architecture using AWS services.
-
-**Tech:** AWS Lambda · API Gateway · Serverless
+**Tech:** Jenkins · Docker · CI/CD · Microservices
 
 ---
 
