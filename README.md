@@ -118,5 +118,5 @@ I enjoy both team-based and strategy-driven games, which reflect my approach to 
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/thulluru1995  
+- LinkedIn: www.linkedin.com/in/thulluru
 - GitHub: https://github.com/Durgathulluru  
